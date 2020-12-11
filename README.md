@@ -6,4 +6,4 @@ Odoo is downloaded from the [official Github repository](https://github.com/odoo
 
 A bash script is available to run Odoo.
 It will also add any addon available on the shared folder `/vagrant_data`.
-This may be useful when developing an addon.
+This may be useful when developing addons.
